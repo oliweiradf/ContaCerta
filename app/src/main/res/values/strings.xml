@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conta Certa</string>
+    <string name="bemvindo">Bem-vindo ao \nCONTA CERTA.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
